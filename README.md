@@ -17,7 +17,7 @@ The dataset were images all in one folder, using matlab I gray scaled each image
 
 .Mat files are loaded using pythons scipy.io library with the function loadmat. Running the jupyter notebook scripts you will need to change the files directory to where you have downloaded it. Uncommenting necessary functions for each step and what dataset you are creating. Saving each created dataset as numpy.
 
-##Convolutional Neural Network
+## Convolutional Neural Network
 
 Code within PICS-Pytorch.ipynb
 
